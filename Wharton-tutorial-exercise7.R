@@ -1,3 +1,11 @@
+### Brittni: We accomplished the goal of each question, but we wanted it completed using flexible custom functions. (-2)
+### Functions are useful for recreating analyses. Additionally, make sure you are saving your code in .R scripts. 
+### There shouldn't be any output in these. Someone should be able to run the entire code without getting any errors.
+
+
+
+
+
 #set the working directory after downloading the documents from github
 setwd("C:/Users/elkid/Desktop/Biocomputing/Biocomp-Fall2018-181012-Exercise7")
 #read the csv document (iris)
